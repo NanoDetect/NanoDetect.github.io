@@ -1,0 +1,10 @@
+Build - VI [12/2/18]
+	
+	- Alts grabber
+	- Directory redirects
+	- 150 strings updated
+	- Reads javaw, lsass, explorer memory
+	- Added sketchy exe detector (provided by PCAClient)
+
+Build - VII [unreleased]
+
