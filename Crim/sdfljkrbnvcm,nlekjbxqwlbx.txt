@@ -1,4 +1,4 @@
-HWID Storage / Enabled
+HWID Storage / Disabled
  
 |==================================================================|
 | Alias        |                HWID                               |
