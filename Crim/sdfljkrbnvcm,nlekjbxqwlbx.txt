@@ -1,0 +1,14 @@
+HWID Storage / Enabled
+ 
+|==================================================================|
+| Alias        |                HWID                               |
+|==================================================================|
+uzi - Developer|                655f126e-80e7-49a8-9f82-8ccd7ec4b6dc
+sam - admin    |                03b5b7af-0632-4ce8-bd05-c570264b08d6
+hotti - user   |                337245bc-42b0-421a-bec7-ac2d20ef8545
+ehl - user     |                03d42aa7-6d76-409f-a55d-fa6883a2e613
+hacs - user    |                0f305da3-40e5-40bc-ac85-5cc835304afc
+eonox - user   |                3a09f4df-cdd0-4151-95eb-f2f8fbd029a5
+sameaim - user |                a2ec6a1d-3115-4f01-8417-5a736364886a
+methodic - user|                6879d846-5a83-4f0e-967d-6e4145d1337f
+travos - user  |                cb2d73e4-34eb-4159-ac11-b08fa02ad84c
