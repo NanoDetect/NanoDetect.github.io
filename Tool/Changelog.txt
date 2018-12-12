@@ -1,12 +1,10 @@
 Build - VI [12/2/18]
-
 	ADDED
 	- Alts grabber
 	- Directory redirects
 	- 150 strings updated
 	- Reads javaw, lsass, explorer memory
 	- Added sketchy exe detector (provided by PCAClient)
-	
 	REMOVED
 	-
 	-
@@ -14,13 +12,11 @@ Build - VI [12/2/18]
 	
 
 Build - VII [12/12/18]
-
 	ADDED
 	- New UI
 	- Updated strings
 	- New Loader
 	- Explorer restart check
-	
 	REMOVED
 	- Alt grabber
 	
